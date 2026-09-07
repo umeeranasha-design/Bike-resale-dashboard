@@ -195,9 +195,9 @@ The combination of KPIs and interactive visuals provides a quick overview of the
 
 
 
-```markdown
+
 ![Bike Resale Analytics Dashboard](./bike_resale.png)
-```
+
 
 
 
