@@ -196,7 +196,7 @@ The combination of KPIs and interactive visuals provides a quick overview of the
 
 
 ```markdown
-![Bike Resale Analytics Dashboard](https://github.com/umeeranasha-design/Bike-resale-dashboard/blob/main/bike_resale.png)
+![Bike Resale Analytics Dashboard](https://github.com/umeeranasha-design/Bike-resale-dashboard/blob/main/bike_resale.png?raw=true)
 ```
 
 
