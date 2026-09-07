@@ -196,7 +196,7 @@ The combination of KPIs and interactive visuals provides a quick overview of the
 Add your Power BI dashboard screenshot here:
 
 ```markdown
-![Bike Resale Analytics Dashboard](Images/dashboard.png)
+![Bike Resale Analytics Dashboard](https://github.com/umeeranasha-design/Bike-resale-dashboard/blob/main/bike_resale.png)
 ```
 
 Make sure your GitHub repository contains the screenshot in the `Images` folder.
